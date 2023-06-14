@@ -1,0 +1,1 @@
+To run this application, please first run all the queries in `create-databse.sql` in your MySQL server.
